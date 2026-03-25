@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>MusicCoreT</PackageId>
+    <Title>MusicCoreT</Title>
+    <Authors>Quidon Roethof</Authors>
+    <Company>Locupos</Company>
+    <Product>A shity music libary for a text-based games</Product>
+    <Description>make for a school project</Description>
+    <Copyright>@2025</Copyright>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyName>MusicCoreT</AssemblyName>
+    <RootNamespace>$(MusicCoreT.Replace(" ", "_"))</RootNamespace>
+    <BaseOutputPath>C:\Users\darkl\Documents\Libarys</BaseOutputPath>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
